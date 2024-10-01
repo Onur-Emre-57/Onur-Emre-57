@@ -44,19 +44,23 @@
 <br />
 
 </table>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+       
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/jundi-husni/](https://www.linkedin.com/in/onur-emre-saribo%C4%9Fa-15a1672b8/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2FF3weN2lSXKoHlhSOzodVg%3D%3D)">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Onur-Emre-57">
-		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
+<a href="[[https://www.linkedin.com/in/1010nishant/](https://www.linkedin.com/in/onur-emre-saribo%C4%9Fa-15a1672b8/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BD3UqCrzMTC6Q7vIERLViXg%3D%3D)](https://www.linkedin.com/in/onur-emre-saribo%C4%9Fa-15a1672b8/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BD3UqCrzMTC6Q7vIERLViXg%3D%3D)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
   
-       
 </p>
 
 
