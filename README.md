@@ -1,67 +1,124 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>Hello there, I'm Onur Emre👋</b></h1>
-</p>
-
-<p>
-  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
-</p>
-
-
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/Onur-Emre-57/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Emre-57&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Onur-Emre-57&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Onur-Emre-57&theme=chartreuse-dark"></p>
-
-
-
-
-
-<div align="center">
-
-## :computer: Technologies and Tools that I know
+<br></br>
+[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=c94c4c&size=30¢er=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Muzaffer...+🙋‍♂️;******+I'm+a+Web-Developer!+🖥️+******;I+love+Frontend+Development+and+Backend+Development;If+you+haven't+reviewed+my+projects+yet..⏲️;..+✅+you+can+take+a+look+at+the+sample+projects+below...;For+any+questions+or+suggestions+❓+............................;....+📫+please+contact+me!+;)](https://git.io/typing-svg)
+<br></br>
+<font color="pink"> 💻 Hi, i am Onur Emre...!	 </font> 
+</br>
+<font color="pink"> :fire: I'm a Full Stack Developer (MERN Stack) ⚛️</font>
+<br></br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muzaffer-kocak/](https://www.linkedin.com/notifications/?filter=all)) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:onuremresariboga@gmail.com)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+<table align="center">
+<div align="left" >
+ <tr>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=html" width="65" height="50" alt="html5 logo"  />
+    <br> Html5
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=css"width="65" height="50" alt="css3 logo"  />
+    <br> Css3
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=js" width="65" height="50" alt="javascript logo"  />
+    <br> JavaScript
+    </td>
+   <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=react" width="65" height="50" alt="react logo"  />
+    <br> React
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=ts" width="65" height="50" alt="typescript logo"  />
+    <br> TypeScript
+    </td>
+   <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=redux" width="65" height="50" alt="redux logo"  />
+    <br> Redux
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=nextjs"width="65" height="50" alt="nextjs logo"  />
+    <br> NextJs
+    </td>
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="50" alt="tailwind logo"  />
+    <br> Tailwind
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=mui" width="65" height="50" alt="mui logo"  />
+    <br> MUi
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=sass" width="65" height="50" alt="sass logo"  />
+    <br> SASS
+    </td>
+  <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=styledcomponents" width="65" height="50" alt="vite logo"  />
+    <br> Styled Components
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="50" alt="bootstrap logo"  />
+    <br> Bootstrap
+    </td>
+ </tr>
   
-<br />
-<a  margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> </a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" width="52" alt="tailwindcss logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" width="52" alt="nextjs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-
+ <tr>
+ 
+    
+   <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=postgres"  width="65" height="50" alt="postgresql logo"  />
+    <br> PostgreSQL
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=express"  width="65" height="50" alt="expressJs logo"  />
+    <br> ExpressJs
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=mongodb"  width="65" height="50" alt="mongodb logo"  />
+    <br> MongoDB
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=docker"  width="65" height="50" alt="docker logo"  />
+    <br> Docker
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=cypress"  width="65" height="50" alt="cypress logo"  />
+    <br> Cypress
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=github" width="65" height="50" alt="github logo"  />
+    <br> GitHub
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="50" alt="git logo"  />
+    <br> Git
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=firebase"  width="65" height="50" alt="firebase logo"  />
+    <br> FireBase
+    </td>  
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=py"  width="65" height="50" alt="python logo"  />
+    <br> Python
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=postman"  width="65" height="50" alt="postman logo"  />
+    <br> PostMan
+    </td>
+    <td align="center" width="86">
+    <img src="https://skillicons.dev/icons?i=vite"  width="65" height="50" alt="vite logo"  />
+    <br> Vite
+    <td align="center" width="86"> 
+    <img src="https://skillicons.dev/icons?i=nodejs"  width="65" height="50" alt="nodejs logo"  />
+    <br> NodeJs
+    </td>
+ </tr>
 </div>
-
-###
-
-</div>
-<br />
-
 </table>
-
-       
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+<br></br>
+<h2 align="center">:bulb:Most Used Language</h2>
+<div  align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzafferKocak&theme=chartreuse-dark&layout=compact" alt="languages" width="35%">
 </div>
-
-<!--icons and links-->
-<p align="center">
-<a href="[[https://www.linkedin.com/in/1010nishant/](https://www.linkedin.com/in/onur-emre-saribo%C4%9Fa-15a1672b8/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BD3UqCrzMTC6Q7vIERLViXg%3D%3D)](https://www.linkedin.com/in/onur-emre-saribo%C4%9Fa-15a1672b8/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BD3UqCrzMTC6Q7vIERLViXg%3D%3D)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-  
-</p>
-
-
-
+<br></br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muzafferkocak&label=Profile%20views&color=0e75b6&style=flat" alt="muzafferkocak" /> </p>
